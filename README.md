@@ -17,6 +17,7 @@ Junior Software Engineer at Luxoft with a strong foundation in embedded systems 
 
 3. **Smart Home System:**
    - From the ground up, developed a low-level smart home system with a user-friendly application. Overseeing serial communications between peripherals.
+   - DSA Playground with pthread: Preparing a repository showcasing data structures implemented using pthread, and building server-client programs manipulating these structures. A journey to demonstrate my mastery of algorithms and concurrent programming.
 
 #### 🌟 Professional Statement:
 
