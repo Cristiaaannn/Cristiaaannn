@@ -25,5 +25,5 @@ Junior Software Engineer at Luxoft with a strong foundation in embedded systems 
 
 #### 🌟 Professional Statement:
 
-At the dawn of my career, I am committed to continuous learning, driven by a passion for creating meaningful solutions. Eager to contribute my skills and knowledge to innovative projects in the dynamic field of embedded systems.
+At the dawn of my career, I am committed to continuous learning, driven by a passion for creating meaningful solutions. Eager to contribute my skills and knowledge to innovative projects.
 
