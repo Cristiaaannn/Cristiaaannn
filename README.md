@@ -9,17 +9,19 @@ Junior Software Engineer at Luxoft with a strong foundation in embedded systems 
 
 #### 💡 Notable Projects:
 
-1. **RISC Processor Design:**
-   - Spearheading the design of a RISC processor, incorporating advanced concepts for optimal performance.
+1. [**RISC Processor Design**](https://github.com/Cristiaaannn/RISC-processor-designing-) 
+   - This repository contains my first venture into processor design, undertaken as part of my Master's degree program. The primary objective of this project is to understand and apply the principles of digital design
+3. **Functional Verification - Serial Communication Module:** (Not started yet, waiting for receiving the module)
+   - Performing Functional Verification on a given serial communication module 
 
-2. **Functional Verification - Serial Communication Module:**
-   - Ensuring seamless communication between digital modules through meticulous functional verification.
-
-3. **Smart Home System:**
+4. [**Smart Home System**](https://github.com/Cristiaaannn/Nucleo-Smart-Home-Project)
    - From the ground up, developed a low-level smart home system with a user-friendly application. Overseeing serial communications between peripherals.
+   - Mbed environment for building
 
-4. **DSA Repo**
-   - DSA Playground with pthread: Preparing a repository showcasing data structures implemented using pthread, and building server-client programs manipulating these structures.
+5. [**DSA Repo**](https://github.com/Cristiaaannn/C-data-structures)
+   - Own (made by me from the ground up) DSA Playground with pthread: Preparing a repository showcasing data structures implemented using pthread, and building server-client programs manipulating these structures in the final part.
+
+*Note: all of them are in progress and continously receiving updates.
 
 #### 🌟 Professional Statement:
 
