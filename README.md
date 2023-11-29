@@ -7,7 +7,7 @@ Junior Software Engineer at Luxoft with a strong foundation in embedded systems 
 - **Hardware Description:** Skilled in Verilog and hardware description/modelling for FPGA development.
 - **Linux Mastery:** Proficient in Linux programming for creating stable and efficient software environments.
 
-#### 💡 Notable Projects:
+#### 💡 Current Projects:
 
 1. [**RISC Processor Design**](https://github.com/Cristiaaannn/RISC-processor-designing-) 
    - This repository contains my first venture into processor design, undertaken as part of my Master's degree program. The primary objective of this project is to understand and apply the principles of digital design
