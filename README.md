@@ -19,7 +19,7 @@ Junior Software Engineer at Luxoft with a strong foundation in embedded systems 
    - Mbed environment for building
 
 5. [**DSA Repo**](https://github.com/Cristiaaannn/C-data-structures)
-   - Own (made by me from the ground up) DSA Playground with pthread: Preparing a repository showcasing data structures implemented using pthread, and building server-client programs manipulating these structures in the final part.
+   - Own (made by me from the ground up) DSA Playground with pthread: Preparing a repository showcasing data structures implemented using file streams, pthreads, and building server-client programs manipulating these structures in the final part.
 
 *Note: all of them are in progress and continously receiving updates.
 
