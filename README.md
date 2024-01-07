@@ -2,7 +2,7 @@ Junior Software Engineer at Luxoft with a strong foundation in embedded systems 
 #### 🚀 Current Focus:
 
 - **Languages:** Proficient in C and C++, building robust and efficient software solutions.
-- **System Architecture:** Deep understanding of ARM architecture for developing optimized embedded systems.
+- **System Architecture:** Deep understanding of x86-64 and ARM architectures for developing optimized embedded systems.
 - **Hardware Description:** Skilled in Verilog and hardware description/modelling for FPGA development.
 - **Linux Mastery:** Proficient in Linux programming for creating stable and efficient software environments.
 
