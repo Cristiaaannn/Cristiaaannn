@@ -8,7 +8,7 @@ Junior Software Engineer at Luxoft with a strong foundation in embedded systems 
 
 #### 💡 Current Projects:
 
-2. [**Computer systems course - Carnegie Mellon University - work**](https://github.com/Cristiaaannn/CSAPP-CarnegieMellon-work)
+1. [**Computer systems course - Carnegie Mellon University - work**](https://github.com/Cristiaaannn/CSAPP-CarnegieMellon-work)
    - This repository contains my homework assignments and projects for the Computer Science: A Programmer's Perspective (CS:APP) course offered by Carnegie Mellon University.
 
 2. [**Self-made Unix Shell**](https://github.com/Cristiaaannn/Self-made-Unix-Shell)
