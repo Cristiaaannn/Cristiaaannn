@@ -8,15 +8,18 @@ Junior Software Engineer at Luxoft with a strong foundation in embedded systems 
 
 #### 💡 Current Projects:
 
-1. [**Self-made Unix Shell**](https://github.com/Cristiaaannn/Self-made-Unix-Shell)
+2. [**Computer systems course - Carnegie Mellon University - work**](https://github.com/Cristiaaannn/CSAPP-CarnegieMellon-work)
+   - This repository contains my homework assignments and projects for the Computer Science: A Programmer's Perspective (CS:APP) course offered by Carnegie Mellon University.
+
+2. [**Self-made Unix Shell**](https://github.com/Cristiaaannn/Self-made-Unix-Shell)
    - A self-made Unix shell from following Carnegie Mellon University CS:APP course and labs
 
-2. [**Smart Home System**](https://github.com/Cristiaaannn/Nucleo-Smart-Home-Project)
+3. [**Smart Home System**](https://github.com/Cristiaaannn/Nucleo-Smart-Home-Project)
    - From the ground up, developed a low-level smart home system with a user-friendly application. Overseeing serial communications between peripherals.
    - Mbed environment for building
    - On hold untill finishing Bjarne Stroustrup book for proper classes handling.
 
-3. [**DSA Repo**](https://github.com/Cristiaaannn/C-data-structures)
+4. [**DSA Repo**](https://github.com/Cristiaaannn/C-data-structures)
    - Self-made (made by me from the ground up) DSA Playground: Preparing a repository showcasing data structures implemented using file streams, pthreads, and building server-client programs manipulating these structures in the final part.
    - On hold for research, learning Donald Knuths algorithms for it.
 
