@@ -1,5 +1,4 @@
-Junior Software Engineer at Luxoft with a strong foundation in embedded systems and a relentless pursuit of knowledge. Currently undertaking a master's degree in Advanced Computing in Embedded Systems, specializing in the intricacies of hardware programming and design.
-
+Junior Software Engineer at Luxoft with a strong foundation in embedded systems and a relentless pursuit of knowledge.
 #### 🚀 Current Focus:
 
 - **Languages:** Proficient in C and C++, building robust and efficient software solutions.
@@ -9,17 +8,17 @@ Junior Software Engineer at Luxoft with a strong foundation in embedded systems 
 
 #### 💡 Current Projects:
 
-1. [**RISC Processor Design**](https://github.com/Cristiaaannn/RISC-processor-designing-) 
-   - This repository contains my first venture into processor design, undertaken as part of my Master's degree program. The primary objective of this project is to understand and apply the principles of digital design
-3. **Functional Verification - Serial Communication Module:** (Not started yet, waiting for receiving the module)
-   - Performing Functional Verification on a given serial communication module 
+1. [**Self-made Unix Shell**](https://github.com/Cristiaaannn/Self-made-Unix-Shell)
+   - A self-made Unix shell from following Carnegie Mellon University CS:APP course and labs
 
-4. [**Smart Home System**](https://github.com/Cristiaaannn/Nucleo-Smart-Home-Project)
+2. [**Smart Home System**](https://github.com/Cristiaaannn/Nucleo-Smart-Home-Project)
    - From the ground up, developed a low-level smart home system with a user-friendly application. Overseeing serial communications between peripherals.
    - Mbed environment for building
+   - On hold untill finishing Bjarne Stroustrup book for proper classes handling.
 
-5. [**DSA Repo**](https://github.com/Cristiaaannn/C-data-structures)
-   - Own (made by me from the ground up) DSA Playground: Preparing a repository showcasing data structures implemented using file streams, pthreads, and building server-client programs manipulating these structures in the final part.
+3. [**DSA Repo**](https://github.com/Cristiaaannn/C-data-structures)
+   - Self-made (made by me from the ground up) DSA Playground: Preparing a repository showcasing data structures implemented using file streams, pthreads, and building server-client programs manipulating these structures in the final part.
+   - On hold for research, learning Donald Knuths algorithms for it.
 
 *Note: all of them are in progress and continously receiving updates.
 
