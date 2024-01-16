@@ -14,8 +14,9 @@ C++ and Algorithm Mastery: Engaged in studying "Programming: Principles and Prac
 Managing a repository dedicated to solutions and exercises from "Programming: Principles and Practice Using C++" by Bjarne Stroustrup. This reflects my progress and understanding of C++ in tandem with my professional work. [[Link to Repository](https://github.com/Cristiaaannn/PPPUCPP)]
 
 
--  **TAOCP Visualizer Project:**
-A forthcoming project set to commence after the C++ Learning Journey. This initiative aims to create a comprehensive C++ GUI visualizer for algorithms and data structures, inspired by the teachings in "Introduction to Algorithms" (CLRS) and MIT's algorithm lectures. The goal is to create an interactive and engaging tool to visualize and understand complex algorithmic concepts. [Link to Repository - Coming Soon]
+-  **General DSA and Algorithm Visualizer Project**: 
+  A forthcoming project set to begin following the completion of my C++ Learning Journey. This ambitious initiative aims to create a comprehensive C++ GUI visualizer for data structures and algorithms. The goal is to develop an interactive and engaging tool that brings complex algorithmic concepts and data structures to life, making them more accessible and understandable. [Link to Repository - Coming Soon]
+
 
 
 **🌟 Professional Statement:**
