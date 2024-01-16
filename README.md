@@ -15,7 +15,7 @@ Managing a repository dedicated to solutions and exercises from "Programming: Pr
 
 
 -  **TAOCP Visualizer Project:**
-A future project set to begin following the completion of the C++ Learning Journey. This ambitious initiative aims to create a C++ GUI visualizer for the concepts and exercises in Donald Knuth's "The Art of Computer Programming". The project is intended to showcase my commitment to understanding and visualizing complex algorithms and data structures, integrating my practical experiences from work. [Link to Repository - Coming Soon]
+A forthcoming project set to commence after the C++ Learning Journey. This initiative aims to create a comprehensive C++ GUI visualizer for algorithms and data structures, inspired by the teachings in "Introduction to Algorithms" (CLRS) and MIT's algorithm lectures. The goal is to create an interactive and engaging tool to visualize and understand complex algorithmic concepts. [Link to Repository - Coming Soon]
 
 
 **🌟 Professional Statement:**
