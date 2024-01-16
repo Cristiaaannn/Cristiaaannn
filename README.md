@@ -3,6 +3,7 @@ Embarking on a journey in software engineering, I am passionately diving into th
 **🚀 Current Focus:**
 
 Languages: Deepening my expertise in C++, with a special emphasis on GUI development using libraries like Qt.
+
 C++ and Algorithm Mastery: Engaged in studying "Programming: Principles and Practice Using C++" by Bjarne Stroustrup and exploring "The Art of Computer Programming" by Donald Knuth.
 
 
