@@ -1,28 +1,14 @@
-Junior Software Engineer at Luxoft with a strong foundation in embedded systems and a relentless pursuit of knowledge.
-#### 🚀 Current Focus:
+Embarking on a journey in software engineering, I am passionately diving into the depths of C++ and its applications in modern software development. With a keen interest in GUI development and algorithmic challenges, my goal is to master the intricacies of C++ and contribute to innovative software solutions.
 
-- **Languages:** Proficient in C and C++, building robust and efficient software solutions.
-- **System Architecture:** Deep understanding of x86-64 and ARM architectures for developing optimized embedded systems.
-- **Hardware Description:** Skilling in Verilog and hardware description/modelling for FPGA development.
-- **Linux Mastery:** Proficient in Linux programming for creating stable and efficient software environments.
+**🚀 Current Focus:**
+Languages: Deepening my expertise in C++, with a special emphasis on GUI development using libraries like Qt.
+C++ and Algorithm Mastery: Engaged in studying "Programming: Principles and Practice Using C++" by Bjarne Stroustrup and exploring "The Art of Computer Programming" by Donald Knuth.
 
-#### 💡 Current Projects:
+**💡 Current Projects:**
+C++ Learning Journey:
+A repository dedicated to solutions and exercises from "Programming: Principles and Practice Using C++" by Bjarne Stroustrup, reflecting my progress and understanding of C++. [Link to Repository]
+TAOCP Visualizer Project:
+An ambitious initiative to create a C++ GUI visualizer for the concepts and exercises in Donald Knuth's "The Art of Computer Programming". This project is a testament to my commitment to understanding and visualizing complex algorithms and data structures. [Link to Repository]
 
-1. [**Self-made Unix Shell**](https://github.com/Cristiaaannn/Self-made-Unix-Shell)
-   - A self-made Unix shell from following Carnegie Mellon University CS:APP course and labs
-
-2. [**Smart Home System**](https://github.com/Cristiaaannn/Nucleo-Smart-Home-Project)
-   - From the ground up, developed a low-level smart home system with a user-friendly application. Overseeing serial communications between peripherals.
-   - Mbed environment for building
-   - On hold untill finishing Bjarne Stroustrup book for proper classes handling.
-
-3. [**DSA Repo**](https://github.com/Cristiaaannn/C-data-structures)
-   - Self-made (made by me from the ground up) DSA Playground: Preparing a repository showcasing data structures implemented using file streams, pthreads, and building server-client programs manipulating these structures in the final part.
-   - On hold for research, learning Donald Knuths algorithms for it.
-
-*Note: all of them are in progress and continously receiving updates.
-
-#### 🌟 Professional Statement:
-
-At the dawn of my career, I am committed to continuous learning, driven by a passion for creating meaningful solutions. Eager to contribute my skills and knowledge to innovative projects.
-
+**🌟 Professional Statement:**
+As I navigate the early stages of my career, I am focused on building a strong foundation in C++ and GUI development. My passion lies in unraveling the complexities of programming and using my skills to develop innovative and impactful software. I am dedicated to continuous learning and am eager to apply my knowledge in a dynamic and creative environment.
